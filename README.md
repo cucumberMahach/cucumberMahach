@@ -10,5 +10,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cucumberMahach&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Cat
 <p align="center">
-  <img src="cat.jpg" />
+  <img src="cat.jpg" style="width: 400px"/>
 </p>

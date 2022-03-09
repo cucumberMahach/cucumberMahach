@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**cucumberMahach/cucumberMahach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi, I'm Alex 👋
+### About me
+- 💞 Java, C++, C#, JS, PHP
+- 🗄 SQL
+- 📟 I write for myself from firmwares to websites
+- 👨‍🎓‍ I graduated from college (programmer), study at the university (information systems)
+- 🖥 I work for a company
+- 🗽🚏 I love Europe
+### My GitHub stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cucumberMahach&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Cat
+<p align="center">
+  <img src="cat.jpg" />
+</p>

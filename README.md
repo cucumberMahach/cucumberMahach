@@ -10,6 +10,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cucumberMahach&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Cats
 <p align="center">
-  <img src="cat.jpg" style="height: 350px"/>
-  <img src="cat_povuk.jpg" style="height: 350px" align="top"/>
+  <img src="cat.jpg" style="height: 300px"/>
+  <img src="cat_povuk.jpg" style="height: 300px" align="top"/>
 </p>

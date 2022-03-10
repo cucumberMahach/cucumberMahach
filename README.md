@@ -8,7 +8,8 @@
 - 🗽🚏 I love Europe
 ### My GitHub stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cucumberMahach&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-## Cat
+## Cats
 <p align="center">
-  <img src="cat.jpg" style="width: 400px"/>
+  <img src="cat.jpg" style="height: 350px"/>
+  <img src="cat_povuk.jpg" style="height: 350px" align="top"/>
 </p>

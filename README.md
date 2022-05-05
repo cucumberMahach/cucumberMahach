@@ -5,7 +5,7 @@
 - 📟 I write for myself from firmwares to websites
 - 👨‍🎓‍ I graduated from college (programmer), study at the university (information systems)
 - 🖥 I work for a company
-- 🗽🚏 I love Europe
+🗽
 ### My GitHub stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cucumberMahach&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Cats

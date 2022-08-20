@@ -1,6 +1,6 @@
 ## Hi, I'm Alex 👋
 ### About me
-- 💞 Java, C++, C#, JS, PHP
+- 💞 Java, C++
 - 🗄 SQL
 - 📟 I write for myself from firmwares to websites
 - 👨‍🎓‍ I graduated from college (programmer), study at the university (information systems)
